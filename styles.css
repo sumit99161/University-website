@@ -183,7 +183,7 @@ a{
 
   /* Heaader starts */
   #header{
-      background:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./Photos/banner.png);
+      background:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./Photos/bannerImg.jpg);
       background-size: 100% 100%;
       background-attachment: fixed;
 background-position: center;
@@ -299,7 +299,8 @@ width: 100%;
     width: 90%;
 }
 .logo img{
-    width: 160px;
+    width: 100px;
+    height: 60px;
 }
 /* text_box of home */
 .btn{
